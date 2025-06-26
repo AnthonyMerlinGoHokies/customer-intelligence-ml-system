@@ -1,42 +1,42 @@
-# 🤖 Customer Intelligence ML System
+\# Customer Intelligence ML System
 
 **AI-Powered E-commerce Analytics Platform**
 
-## 🎯 Executive Summary
+## Executive Summary
 
 This project demonstrates enterprise-level data science capabilities by building an end-to-end customer intelligence system that:
 
-- **🔍 Discovered** £1.73M in untracked revenue (16.3% of total sales)
-- **🤖 Predicted** customer churn with **perfect accuracy** (AUC = 1.000)
-- **🎯 Identified** £1.55M in revenue at risk from 1,941 high-risk customers
-- **🛒 Generated** personalized product recommendations for customer retention
-- **📊 Created** executive dashboards for actionable business insights
+- **Discovered** £1.73M in untracked revenue (16.3% of total sales)
+- **Predicted** customer churn with **perfect accuracy** (AUC = 1.000)
+- **Identified** £1.55M in revenue at risk from 1,941 high-risk customers
+- **Generated** personalized product recommendations for customer retention
+- **Created** executive dashboards for actionable business insights
 
 **Total Business Impact: ~£3.3M in revenue opportunities identified**
 
-## 🚀 Key Features
+## Key Features
 
-### 🔍 **Data Discovery & Analysis**
+### **Data Discovery & Analysis**
 - Advanced SQL exploration revealing critical data quality issues
 - Revenue gap analysis with business impact quantification
 - Temporal trend analysis showing seasonal patterns
 
-### 🤖 **Machine Learning Models**
+### **Machine Learning Models**
 - **Churn Prediction**: Random Forest classifier with perfect accuracy
 - **Feature Engineering**: RFM analysis + 13 behavioral metrics
 - **Risk Segmentation**: Automated customer risk scoring
 
-### 🛒 **Recommendation Engine**
+### **Recommendation Engine**
 - Collaborative filtering for personalized product suggestions
 - Cosine similarity-based product matching
 - Targeted retention campaigns for high-value customers
 
-### 📊 **Professional Visualizations**
+### **Professional Visualizations**
 - Multi-panel executive dashboards
 - Interactive business intelligence charts
 - Portfolio-quality data storytelling
 
-## 📈 Results & Business Impact
+## Results & Business Impact
 
 | Metric | Value | Business Impact |
 |--------|-------|-----------------|
@@ -47,7 +47,7 @@ This project demonstrates enterprise-level data science capabilities by building
 | **ML Model Accuracy** | AUC = 1.000 | Perfect prediction capability |
 | **Top Customer Value** | £77K (Customer 12346) | VIP retention priority |
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 **Languages & Tools:**
 - **Python 3.8+** (Primary development)
@@ -66,20 +66,20 @@ This project demonstrates enterprise-level data science capabilities by building
 - **Feature Engineering** - RFM analysis
 - **Cross-validation** - Model evaluation
 
-## 📊 Sample Results
+## Sample Results
 
-### 🎯 Churn Prediction Model
+### Churn Prediction Model
 ```
-🏆 Model Performance:
+Model Performance:
    • AUC Score: 1.000 (Perfect)
    • Top Predictor: Recency (77% importance)
    • Risk Segments: Low/Medium/High
    • Customers Analyzed: 4,339
 ```
 
-### 💰 High-Value Customers at Risk
+### High-Value Customers at Risk
 ```
-👑 Top 5 Customers to Save:
+Top 5 Customers to Save:
    1. Customer 12346: £77K value, 94% churn risk
    2. Customer 15749: £45K value, 96% churn risk  
    3. Customer 15098: £40K value, 95% churn risk
@@ -87,34 +87,33 @@ This project demonstrates enterprise-level data science capabilities by building
    5. Customer 12409: £11K value, 97% churn risk
 ```
 
-### 🛒 Personalized Recommendations
+### Personalized Recommendations
 ```
-🎯 Customer 12346 (£77K value) - Recommendations:
+Customer 12346 (£77K value) - Recommendations:
    • Large Ceramic Storage Jar (£1.97)
    • Travel Sewing Kit (£1.97)
    • Pink Paisley Tissues (£0.47)
 ```
 
+## Key Insights Discovered
 
-## 🎯 Key Insights Discovered
-
-### 💡 **Revenue Gap Analysis**
+### **Revenue Gap Analysis**
 - **16.3% of transactions** lack customer identification
 - **Peak data loss**: December 2010 (30% missing customer data)
 - **Seasonal patterns**: Data quality varies with business volume
 
-### 🔍 **Customer Behavior Patterns**
+### **Customer Behavior Patterns**
 - **Top 10% of customers** generate disproportionate revenue
 - **Churn correlation**: Recency is the strongest predictor (77% importance)
 - **Purchase behavior**: Low correlation (0.189) between order frequency and total spending
 
-### 🎯 **Actionable Recommendations**
+### **Actionable Recommendations**
 1. **Immediate**: Contact 1,941 high-risk customers with personalized offers
 2. **Strategic**: Implement customer data capture for ALL transactions
 3. **Tactical**: Deploy recommendation engine for retention campaigns
 4. **Operational**: Investigate seasonal data quality issues
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 ```bash
@@ -152,7 +151,7 @@ system.build_recommendation_engine()
 system.create_ultimate_dashboard()
 ```
 
-## 🏆 Technical Highlights
+## Technical Highlights
 
 ### **Advanced Machine Learning**
 - **Perfect Model Performance**: Achieved AUC = 1.000 on churn prediction
@@ -169,7 +168,7 @@ system.create_ultimate_dashboard()
 - **Data Quality Assessment**: Comprehensive null value and anomaly analysis
 - **Performance Optimization**: Efficient SQL queries for large dataset analysis
 
-## 💼 Business Applications
+## Business Applications
 
 This system demonstrates capabilities valuable for:
 
@@ -179,7 +178,7 @@ This system demonstrates capabilities valuable for:
 - **CRM Systems** (risk scoring)
 - **Marketing Automation** (targeted campaigns)
 
-## 🎯 Skills Demonstrated
+## Skills Demonstrated
 
 **Data Science:**
 - Exploratory Data Analysis (EDA)
@@ -202,7 +201,7 @@ This system demonstrates capabilities valuable for:
 - Production-Ready Code Architecture
 - Scalable System Design
 
-## 📈 Future Enhancements
+## Future Enhancements
 
 - **Real-time Predictions**: Stream processing for live churn scoring
 - **Advanced ML**: Deep learning models for enhanced accuracy
@@ -212,20 +211,16 @@ This system demonstrates capabilities valuable for:
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **Dataset**: E-commerce transaction data for customer behavior analysis
 - **Techniques**: Inspired by industry best practices in customer analytics
 - **Tools**: Built with open-source Python ecosystem
 
 ---
-
-> **"This project showcases enterprise-level data science capabilities, combining technical excellence with clear business value delivery."**
-
-⭐ **Star this repository if you found it valuable!**
